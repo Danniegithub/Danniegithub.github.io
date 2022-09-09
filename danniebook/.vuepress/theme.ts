@@ -14,9 +14,9 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "/BornforthisHJB/Notebook",
+  repo: "/Danniegithub/Danniegithub.github.io",
 
-  docsDir: "StudentNotebook",
+  docsDir: "danniebook",
 
   // navbar
   navbar: navbar,
