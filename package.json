@@ -4,9 +4,9 @@
   "description": "AI悦创编程一对一学员，笔记模版网页",
   "license": "MIT",
   "scripts": {
-    "docs:build": "vuepress build StudentNotebook",
-    "docs:clean-dev": "vuepress dev StudentNotebook --clean-cache",
-    "docs:dev": "vuepress dev StudentNotebook"
+    "docs:build": "vuepress build danniebook",
+    "docs:clean-dev": "vuepress dev danniebook --clean-cache",
+    "docs:dev": "vuepress dev danniebook"
   },
   "devDependencies": {
     "@vuepress/client": "^2.0.0-beta.49",
