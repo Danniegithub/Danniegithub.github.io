@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: home
 title: 笔记博客
-bgImage: /bg.jpg
+bgImage: /bg.png
 heroImage: /hero.png
 heroText: 笔记博客模版
 heroFullScreen: true

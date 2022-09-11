@@ -43,6 +43,7 @@ export default hopeTheme({
 
   plugins: {
     blog: {
+
       autoExcerpt: true,
     },
 
