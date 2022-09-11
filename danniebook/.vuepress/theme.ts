@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://bornforthis.cn",
+  hostname: "https://www.danniepython.com",
 
   author: {
     name: "AI悦创",
-    url: "https://www.bornforthis.cn",
+    url: "https://www.danniepython.com",
   },
 
   iconAssets: "iconfont",
@@ -31,8 +31,9 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "AI悦创·编程私教学员",
-    intro: "https://bornforthis.cn",
+    name: "Dannie",
+    description: "Dannie 笔记",
+    intro: "https://www.danniepython.com",
   },
 
   // encrypt: {
@@ -43,7 +44,6 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-
       autoExcerpt: true,
     },
 
