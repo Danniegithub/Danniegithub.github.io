@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://bornforthis.cn/sitemap.xml
+Sitemap: https://www.danniepython.com/sitemap.xml
