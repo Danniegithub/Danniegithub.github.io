@@ -26,5 +26,7 @@ backToTop: true
 toc: true
 ---
 
-## 1. 标题
+## 日期在线生成链接
+
+[https://bornforthis.cn/python/index.html#/](https://bornforthis.cn/python/index.html#/)
 
